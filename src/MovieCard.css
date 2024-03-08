@@ -1,0 +1,67 @@
+.movie-card {
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    width: 60vw; /* Adjusted width to 60vw */
+    color: white;
+    background-color: black;
+    height: 30vh; /* Adjusted height to 30vh */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+    &:hover {
+      transform: scale(1.05);
+    }
+    box-shadow: 
+    0px -25px 20px -20px rgba(0, 0, 255, 0.45),
+    25px 0 20px -20px rgba(0, 0, 255, 0.45),
+    0px 25px 20px -20px rgba(29, 29, 190, 0.45),
+    -25px 0 20px -20px rgba(0, 0, 255, 0.45);
+}
+  .main-card {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .image-tile {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    display: flex;
+  }
+  
+  .movie-image {
+    border-radius: 10px;
+    height: 10rem;
+    width: auto;
+  }
+  
+  .bg-image {
+    height: 100%;
+    width: 40%;
+    margin: 0%;
+  }
+  
+  .movie-details-up {
+    padding: 10px;
+    width: 30%;
+  }
+  
+  .movie-details-up h2 {
+    margin: 0;
+  }
+  
+  .movies-details-tile-down {
+    display: flex;
+    margin-top: 10px;
+    font-size: smaller;
+  }
+  
+  .description {
+    margin-top: 50px;
+    text-align: justify;
+    width: 60%;
+  }
+  
+  

@@ -1,0 +1,35 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
+        "backgroundimage" :"https://c4.wallpaperflare.com/wallpaper/784/678/343/movies-inception-leonardo-dicaprio-wallpaper-preview.jpg",
+        "releaseYear": 2010,
+        "duration": 148,
+        "genres": ["Action", "Adventure", "Sci-Fi"],
+        "description": "A thief who enters the dreams of others to steal their deepest secrets."
+      },
+      {
+        "id": 2,
+        "title": "The Shawshank Redemption",
+        "imageURL": "https://miro.medium.com/v2/resize:fit:1400/1*VjS57-wXVz_x0-kKkxZKbw.jpeg",
+        "backgroundimage" :"https://c4.wallpaperflare.com/wallpaper/834/280/850/movies-the-shawshank-redemption-wallpaper-preview.jpg",
+        "releaseYear": 1994,
+        "duration": 142,
+        "genres": ["Drama"],
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "imageURL": "https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg",
+        "backgroundimage" :"https://png.pngtree.com/thumb_back/fw800/background/20230524/pngtree-batman-the-dark-knight-rises-black-city-at-night-image_2673699.jpg",
+        "releaseYear": 2008,
+        "duration": 152,
+        "genres": ["Action", "Crime", "Drama"],
+        "description": "When the menace known as The Joker emerges, Batman must confront one of the greatest psychological and physical tests of his ability to fight injustice."
+      }
+    ]
+  }
+  
